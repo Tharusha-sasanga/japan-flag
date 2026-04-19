@@ -1,0 +1,46 @@
+body {
+    background-color:#99AD7A;
+}
+.poster {
+    height: 800px;
+    width: 600px;
+    margin-left: 25%;
+    margin-top: 100px;
+
+    background-color:#DCCCAC ;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    text-transform: capitalize;
+
+    position: relative;
+}
+
+h1 {
+
+    margin: 0;
+    padding-top: 40px;
+}
+
+.white-area {
+    background-color: white;
+    height: 400px;
+    width: 100%;
+
+    position: absolute;
+    top:200px;   
+}
+
+.red-area {
+    background-color: #BC002D;
+    width:240px;
+    height:240px;
+    border-radius:50%;
+
+    position: absolute;
+    top: 80px;
+    left:180px;  
+}
