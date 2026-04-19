@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-color:#99AD7A;
 }
@@ -20,8 +25,6 @@ body {
 }
 
 h1 {
-
-    margin: 0;
     padding-top: 40px;
 }
 
